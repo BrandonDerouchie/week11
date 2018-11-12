@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    text-align: center;
+    background-color: azure;
+    
+}
+.intro{
+   color: white ;
+   text-align: center;
+   border-radius: 10px;
+   border-color: blue;
+   height: 25px;
+   border-style: dotted;
+   padding-top: 20px;
+   margin:75px 550px;
+   padding-bottom: 10px 
+}
+body{
+    background-color: black;
+}
+.full-box{background-color: red;
+    height: 200px;
+
+}
+.middle-box{
+    color:white ;
+    background-color: green;
+    text-align: center;
+    margin: 50px 650px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
